@@ -53,6 +53,8 @@ We recommend every repository include a README, LICENSE, and .gitignore.
 		antonio$antonio:~$ git branch
 		*	<New_Branch> # '*' indica que a branch atual é <New_Branch>
 			master
+		antonio$antonio:~$ git commit -am "New_Branch is up"
+		antonio$antonio:~$ git push --set-upstream origin <New_Branch>
 		antonio$antonio:~$ git checkout master # volta para master após algumas modificação em <New_Branch>
 		antonio$antonio:~$ git merge <New_Branch>
 		antonio$antonio:~$ git checkout -D <New_Branch>
