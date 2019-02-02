@@ -16,11 +16,15 @@ We recommend every repository include a README, LICENSE, and .gitignore.
 
 
 ```cosole
-	antonio$antonio:~$ git clone https/ssh
+	antonio$antonio:~$ git clone <https/ssh>
 
-	antonio$antonio:~$ git add <filename>
+	antonio$antonio:~$ git add <files>
 
 	antonio$antonio:~$ git commit -m "<message>"
 
 	antonio$antonio:~$ git status
+
+	antonio$antonio:~$ git push
+
+	antonio$antonio:~$ git pull	
 ```
