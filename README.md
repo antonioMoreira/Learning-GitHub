@@ -14,3 +14,13 @@ We recommend every repository include a README, LICENSE, and .gitignore.
 	$ git remote add origin https://github.com/antonioMoreira/Learning-GitHub.git
 	$ git push -u origin master
 
+
+```cosole
+	antonio$antonio:~$ git clone https/ssh
+
+	antonio$antonio:~$ git add <filename>
+
+	antonio$antonio:~$ git commit -m "<message>"
+
+	antonio$antonio:~$ git status
+```
