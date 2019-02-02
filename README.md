@@ -1,6 +1,6 @@
 README
 ============================================================
-##New Branch
+## New Branch
 
 We recommend every repository include a README, LICENSE, and .gitignore.
 
