@@ -71,7 +71,7 @@ Used to ignore some files.
 	antonio$antonio:~$ vim ./.gitignore
 
 	#On VIM
-	./toIngore
-	toIngore.txt
+	./toIngore/ #Ignora a pasta toIgnore 
+	toIngore.txt #Igora o arquivo toIgnore.txt
 
 ```
