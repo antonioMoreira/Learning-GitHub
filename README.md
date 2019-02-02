@@ -63,3 +63,15 @@ We recommend every repository include a README, LICENSE, and .gitignore.
 
 ### Sas - extension to CSS
 
+### .gitignore
+Used to ignore some files.
+
+```bash
+	antonio$antonio:~$ touch ./.gitignore
+	antonio$antonio:~$ vim ./.gitignore
+
+	#On VIM
+	./toIngore
+	toIngore.txt
+
+```
