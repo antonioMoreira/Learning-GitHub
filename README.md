@@ -1,3 +1,6 @@
+README
+============================================================
+
 We recommend every repository include a README, LICENSE, and .gitignore.
 
 …or create a new repository on the command line
