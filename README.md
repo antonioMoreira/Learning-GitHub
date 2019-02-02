@@ -20,7 +20,12 @@ We recommend every repository include a README, LICENSE, and .gitignore.
 
 
 ```bash
-	# Basic
+	# Basic 1 
+	antonio$antonio:~$ mkdir ~/NewProject
+	antonio$antonio:~$ cd ~/NewProject
+	antonio$antonio:~$ git init #cria um .git com as config default
+
+	# Basic 2
 	antonio$antonio:~$ git clone <https/ssh>
 	antonio$antonio:~$ git add <files>
 	antonio$antonio:~$ git commit -m "<message>"
